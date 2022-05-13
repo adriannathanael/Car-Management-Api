@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "adrian",
+    "database": "data_mobil",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+  
+}
